@@ -1,7 +1,10 @@
 <template>
+<div class="overflow-hidden">
 <top-bar/>
 <cta/>
 <variant/>
+</div>
+
 </template>
 
 
