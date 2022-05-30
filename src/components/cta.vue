@@ -1,8 +1,8 @@
 <template>
-    <div class="flex">
+    <div class="flex container mx-auto">
 <div>
-    <p class="text-xl">
-        Let’s get you where
+    <p class="text-6xl">
+        Let’s get you where br
         <span class="text-red-500">you need to be</span> 
     </p>
 </div>
