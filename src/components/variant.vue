@@ -1,0 +1,21 @@
+<template>
+    <div class="container flex gap-5 items-center">
+<div class="min-w-[413px] min-h-[203px] relative">
+    <img src="../assets/v1.png" alt="image" class="absolute inset-0">
+</div>
+<div class="min-w-[413px] min-h-[203px] relative">
+    <img src="../assets/v2.png" alt="image" class="absolute inset-0">
+</div>
+<div class="min-w-[413px] min-h-[203px] relative">
+    <img src="../assets/v3.png" alt="image" class="absolute inset-0">
+</div>
+    </div>
+</template>
+
+<script setup lang="ts">
+
+</script>
+
+<style scoped>
+
+</style>
