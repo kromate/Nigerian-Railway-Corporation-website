@@ -111,7 +111,7 @@
 <style scoped>
 
 .input{
-    @apply px-4 flex items-center py-1.5 w-full cursor-pointer min-h-[60px] border;
+    @apply px-4 flex items-center py-1.5 w-full cursor-pointer min-h-[60px] border ;
     background: #fcfcfc;
 	box-shadow: 0px 1px 8px rgba(0, 22, 40, 0.07);
 }
