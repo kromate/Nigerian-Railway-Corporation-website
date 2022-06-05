@@ -10,7 +10,7 @@
             <button class="bg-[#3B89FF] font-medium text-base text-white py-1.5 px-7 rounded">Register</button>
         </div>
 
-     <img src="../assets/bar.svg" alt="" class="h-4">
+     <img src="../assets/bar.svg" alt="" class="h-4 flex md:hidden">
     </div>
 </template>
 
