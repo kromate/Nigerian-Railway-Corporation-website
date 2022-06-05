@@ -1,5 +1,5 @@
 <template>
-    <div class="flex  items-center container justify-between mx-auto mt-4 px-4">
+    <div class="flex  items-center container justify-between mx-auto mt-4 px-6 md:px-0">
         <img src="../assets/logo.png" alt="" class="h-14">
 
         <div class="md:flex items-center gap-7 hidden">
