@@ -1,5 +1,5 @@
 <template>
-    <div class="container flex gap-5 items-center justify-center mx-auto mt-20">
+    <div class="container flex flex-wrap gap-5 items-center justify-center mx-auto mt-20">
 <div class="min-w-[413px] min-h-[203px] relative flex items-center justify-center">
     <span class="absolute text-white z-20 text-5xl font-semibold">Safe</span>
     <img src="../assets/v1.png" alt="image" class="absolute inset-0">
